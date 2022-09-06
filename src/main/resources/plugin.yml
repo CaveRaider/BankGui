@@ -1,0 +1,7 @@
+name: Bankgui
+version: '${project.version}'
+main: com.server.bankgui.Bankgui
+api-version: 1.19
+
+commands:
+  openbank:
